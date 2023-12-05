@@ -12,3 +12,24 @@ th {
     text-align: left;
     padding: 8px;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    /* margin: 0;padding: 0; */
+}
+
+
+
+th {
+    background-color: #3498db;
+    color: white;
+}
+
+    img {
+        width: 100px;
+        display: block;
+        /* Ensures the image is treated as a block-level element */
+        margin: 0 auto;
+        /* Centers the image horizontally by setting left and right margins to auto */
+    }
