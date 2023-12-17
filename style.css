@@ -1,9 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
 table {
     font-family: Arial, Helvetica, sans-serif;
-    /* border-collapse: collapse; */
     font-size: large;
-    width: 100%;
-
+    width: 80%;
+    margin: 20px auto;
+    /* Center the table horizontally */
+    border-collapse: collapse;
 }
 
 td,
@@ -13,23 +20,36 @@ th {
     padding: 8px;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    /* margin: 0;padding: 0; */
-}
-
-
-
 th {
     background-color: #3498db;
     color: white;
 }
 
+/* Hover effect for table rows */
+tbody tr:hover {
+    background-color: #e0e0e0c4;
+    transition: background-color 0.3s ease;
+}
+
+Image styles
 img {
     width: 100px;
     display: block;
-    /* Ensures the image is treated as a block-level element */
-    margin: 0 auto;
-    /* Centers the image horizontally by setting left and right margins to auto */
+    margin: 20px auto;
+    /* Center the image horizontally */
+}
+
+/* Mentorship heading styles */
+#mentorship-heading {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Your name styles */
+#your-name {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
 }
