@@ -26,10 +26,10 @@ th {
     color: white;
 }
 
-    img {
-        width: 100px;
-        display: block;
-        /* Ensures the image is treated as a block-level element */
-        margin: 0 auto;
-        /* Centers the image horizontally by setting left and right margins to auto */
-    }
+img {
+    width: 100px;
+    display: block;
+    /* Ensures the image is treated as a block-level element */
+    margin: 0 auto;
+    /* Centers the image horizontally by setting left and right margins to auto */
+}
