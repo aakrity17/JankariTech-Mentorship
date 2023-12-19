@@ -1,4 +1,5 @@
 # INTRODUCITON TO CUCUMBER AND GHERKIN
+# Cucumber uses a Gherkin syntax, which is a plain-text language with keywords like Given, When, Then, etc., to describe the behavior of software.
 
 - Gherkin - language
 - Download extension Cucumber and Material Icon Theme in VS Code<br>

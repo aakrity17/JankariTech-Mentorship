@@ -10,7 +10,8 @@
 - `ctrl+shift+i` - to formatting
 
 # Assertions in PlayWright
-
+``Assertion : is used to verify whether a piece of code behaves as expected
+``
 - https://playwright.dev/docs/test-assertions
 
 # Basics of Vuejs and Vite- By Sagar Gurung
