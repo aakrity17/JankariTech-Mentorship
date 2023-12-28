@@ -1,8 +1,8 @@
 # Revision of CI/CD, why we need to use Ci/cd
 
-` CI allows us to continuously integrate code into a single shared and easy to access repository.
-
-`Helps us to automate `
+# (Docker, Docker image, Docker container)
+````1. CI allows us to continuously integrate code into a single shared and easy to access repository.``````
+`2. Helps us to automate `
 
 # Docker
 
@@ -36,3 +36,6 @@ sudo docker ps
 
 #github action
 https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
+
+# Cherry pic
+```auta branch bata arko branch ma leuna ko lagi```
