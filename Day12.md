@@ -2,7 +2,7 @@
 
 # Implementing POM , Clean code and Replacing (String) with 
 # Util-- we used util to use %s ( which replace the string)
-
+https://github.com/nabim777/mentorship2023/pull/1/commits/bede7e107301f88c0ca775ca5af46c7705760219
 
 ``Page Object Model, also known as POM, is a design pattern in CUcumber/Selenium that creates an object repository for storing all web elements. It helps reduce code duplication and improves test case maintenance``
 

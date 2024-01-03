@@ -22,3 +22,18 @@
 3. Go to network
 4. check which method such as (Post, get) also look url
 5. and go to postman and paste, you will get token there
+
+# Links
+
+- https://docs.google.com/document/d/1mGVRrC-CjGUxTnSw48yydKPv67d-OUkJe0pSK1ZeFEE/edit#heading=h.jhy84v1t6vak
+Day.14 Indexing in Vs code, API testing , PostMan and Playing with Network on browser
+
+# Indexing in VS Code
+
+- Goto settings of Cucumber
+- Edit package.json
+- Add path inside the top of the function
+- Close the VS Code and open it
+- Enjoy indexing
+- Press ctrl+the line where you want to move 
+- To return back press ctrl+alt+-

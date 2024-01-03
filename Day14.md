@@ -1,5 +1,14 @@
 # Postman
 
+# API Testing
+
+# 
+#  Links
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+- https://www.npmjs.com/package/axios
+- https://axios-http.com/docs/intro
+- https://www.npmjs.com/package/playwright
 ## Install Postman Locally
 
 Install Postman locally to test and perform API requests and obtain tokens.
